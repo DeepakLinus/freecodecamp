@@ -1,2 +1,5 @@
 # freecodecamp
-Mean-Variance-Standard Deviation Calculator
+
+<a href="https://github.com/DeepakLinus/Mean-Variance-Standard-Deviation-Calculator"><h3>Mean-Variance-Standard Deviation Calculator</h3></a>
+
+<a href="https://github.com/DeepakLinus/Demographic-Data-Analyzer"><h3>Demographic Data Analyzer</h3></a>
